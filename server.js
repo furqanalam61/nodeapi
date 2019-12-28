@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-
-mongoose.connect('mongodb+srv://muzammal6313:ashrafi9885@cluster0-4hc2l.mongodb.net/studentDB?retryWrites=true&w=majority',
+//mongodb+srv://muzammal6313:ashrafi9885@cluster0-4hc2l.mongodb.net/studentDB?retryWrites=true&w=majority'
+mongoose.connect('mongodb+srv://furqan:furqandb@cluster0-i76fw.mongodb.net/carsDB?retryWrites=true&w=majority',
                  {useNewUrlParser: true},
     ()=>console.log('connected'));
 
