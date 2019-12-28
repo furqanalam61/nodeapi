@@ -10,7 +10,6 @@ mongoose.connect('mongodb+srv://muzammal6313:ashrafi9885@cluster0-4hc2l.mongodb.
     email: String
 }); */
 
-// trying to test changes in git.
 
 
 // try another change.
